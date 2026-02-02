@@ -1,4 +1,4 @@
-import matplotlib as plt
+import matplotlib
 import numpy as np
 import scipy
 
@@ -35,4 +35,5 @@ def calculate_drag(CL: float, AR: float, CD0: float = 0.15) -> dict[str, float]:
         "CD0": CD0,
         "LD_ratio": LD_ratio
         }
+
 
