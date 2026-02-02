@@ -1,0 +1,26 @@
+{
+    "student_info": {
+        "name": "Rea, Matthew",
+        "student_id": "81003340",
+        "email": "mrrea@uci.edu",
+        "language": "python"
+    },
+    "project_info": {
+        "aircraft_type": "To be determined",
+        "design_requirements": {
+            "range_nm": 0,
+            "passengers": 0,
+            "cruise_mach": 0.0
+        },
+        "design_choices": {
+            "wing_configuration": "",
+            "engine_type": "",
+            "rationale": "Document your design decisions here as the course progresses"
+        },
+    "version_info": {
+     "current_version": "1.0",
+     "last_updated": "2026-01-27",
+     "modules_completed": ["drag"]
+        }
+    }
+}
